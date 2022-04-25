@@ -1,0 +1,32 @@
+body {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bree Serif', serif;
+}
+
+.glas-box {
+    background: rgba(209, 0, 0, 0.38);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.8px);
+    -webkit-backdrop-filter: blur(5.8px);
+    width: 70rem;
+    height: 30rem;
+}
+
+.batman-text {
+    font-size: 8rem;
+    text-transform: uppercase;
+    text-shadow: 0px 15px 17px #8c0313;
+    text-shadow: 0px 0px 0 rgb(188, -31, 0),
+        1px 1px 0 rgb(151, -68, 0),
+        2px 2px 0 rgb(115, -104, 0),
+        3px 3px 0 rgb(78, -141, 0),
+        4px 4px 0 rgb(42, -177, 0),
+        5px 5px 0 rgb(5, -214, 0),
+        6px 6px 0 rgb(-31, -250, 0),
+        7px 7px 0 rgb(-67, -286, 0),
+        8px 8px 7px rgba(0, 0, 0, 0.23),
+        8px 8px 1px rgba(0, 0, 0, 0.5),
+        0px 0px 7px rgba(0, 0, 0, .2);
+}
